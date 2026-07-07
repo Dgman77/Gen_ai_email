@@ -1,0 +1,271 @@
+{
+  "per_response": [
+    {
+      "id": "0054",
+      "semantic_similarity": 0.96,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 57.8,
+      "difficulty": "medium",
+      "category": "Shipping Delay"
+    },
+    {
+      "id": "0035",
+      "semantic_similarity": 0.998,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 78.8,
+      "difficulty": "medium",
+      "category": "Account Locked"
+    },
+    {
+      "id": "0066",
+      "semantic_similarity": 0.998,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 58.8,
+      "difficulty": "hard",
+      "category": "Damaged Product"
+    },
+    {
+      "id": "0038",
+      "semantic_similarity": 1.0,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.0,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 70.5,
+      "difficulty": "medium",
+      "category": "Login Problems"
+    },
+    {
+      "id": "0064",
+      "semantic_similarity": 0.969,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 58.1,
+      "difficulty": "hard",
+      "category": "Wrong Item Received"
+    },
+    {
+      "id": "0020",
+      "semantic_similarity": 0.942,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 57.4,
+      "difficulty": "easy",
+      "category": "Failed Payment"
+    },
+    {
+      "id": "0083",
+      "semantic_similarity": 0.994,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 78.7,
+      "difficulty": "easy",
+      "category": "Feature Request"
+    },
+    {
+      "id": "0016",
+      "semantic_similarity": 0.974,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 58.2,
+      "difficulty": "medium",
+      "category": "Failed Payment"
+    },
+    {
+      "id": "0060",
+      "semantic_similarity": 0.958,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 0.5,
+      "tone_match": 0.7,
+      "overall_score": 50.3,
+      "difficulty": "hard",
+      "category": "Missing Package"
+    },
+    {
+      "id": "0015",
+      "semantic_similarity": 0.949,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.667,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 65.9,
+      "difficulty": "medium",
+      "category": "Duplicate Charge"
+    },
+    {
+      "id": "0029",
+      "semantic_similarity": 0.998,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.0,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 50.5,
+      "difficulty": "hard",
+      "category": "Upgrade/Downgrade"
+    },
+    {
+      "id": "0012",
+      "semantic_similarity": 0.992,
+      "entity_coverage": 0.333,
+      "action_coverage": 0.667,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 73.6,
+      "difficulty": "medium",
+      "category": "Duplicate Charge"
+    },
+    {
+      "id": "0053",
+      "semantic_similarity": 0.956,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 57.7,
+      "difficulty": "medium",
+      "category": "Shipping Delay"
+    },
+    {
+      "id": "0099",
+      "semantic_similarity": 0.993,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.667,
+      "intent_match": 0.5,
+      "tone_match": 0.7,
+      "overall_score": 79.5,
+      "difficulty": "hard",
+      "category": "Escalation Request"
+    },
+    {
+      "id": "0002",
+      "semantic_similarity": 0.996,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.667,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 67.1,
+      "difficulty": "medium",
+      "category": "Billing Issue"
+    },
+    {
+      "id": "0071",
+      "semantic_similarity": 0.96,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 57.8,
+      "difficulty": "easy",
+      "category": "Return Request"
+    },
+    {
+      "id": "0040",
+      "semantic_similarity": 1.0,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.0,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 70.5,
+      "difficulty": "medium",
+      "category": "Login Problems"
+    },
+    {
+      "id": "0021",
+      "semantic_similarity": 0.996,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.0,
+      "intent_match": 0.5,
+      "tone_match": 0.7,
+      "overall_score": 62.9,
+      "difficulty": "easy",
+      "category": "Subscription Cancellation"
+    },
+    {
+      "id": "0091",
+      "semantic_similarity": 0.953,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.0,
+      "intent_match": 0.5,
+      "tone_match": 0.7,
+      "overall_score": 61.8,
+      "difficulty": "easy",
+      "category": "Positive Feedback"
+    },
+    {
+      "id": "0031",
+      "semantic_similarity": 0.997,
+      "entity_coverage": 1.0,
+      "action_coverage": 0.333,
+      "intent_match": 1.0,
+      "tone_match": 0.7,
+      "overall_score": 78.8,
+      "difficulty": "hard",
+      "category": "Account Locked"
+    },
+    {
+      "id": "0103",
+      "semantic_similarity": 0.22,
+      "entity_coverage": 0.0,
+      "action_coverage": 0.0,
+      "intent_match": 0.5,
+      "tone_match": 0.7,
+      "overall_score": 23.5,
+      "difficulty": "hard",
+      "category": "Escalation Request"
+    }
+  ],
+  "summary": {
+    "n_responses": 21,
+    "mean_overall": 62.77,
+    "median_overall": 61.8,
+    "std_overall": 12.58,
+    "by_difficulty": {
+      "medium": 66.68,
+      "hard": 57.07,
+      "easy": 63.72
+    },
+    "by_category": {
+      "Shipping Delay": 57.75,
+      "Account Locked": 78.8,
+      "Damaged Product": 58.8,
+      "Login Problems": 70.5,
+      "Wrong Item Received": 58.1,
+      "Failed Payment": 57.8,
+      "Feature Request": 78.7,
+      "Missing Package": 50.3,
+      "Duplicate Charge": 69.75,
+      "Upgrade/Downgrade": 50.5,
+      "Escalation Request": 51.5,
+      "Billing Issue": 67.1,
+      "Return Request": 57.8,
+      "Subscription Cancellation": 62.9,
+      "Positive Feedback": 61.8
+    },
+    "judge_mode": "llm",
+    "metric_weights": {
+      "semantic_similarity": 0.25,
+      "entity_coverage": 0.2,
+      "action_coverage": 0.25,
+      "intent_match": 0.15,
+      "tone_match": 0.15
+    }
+  }
+}
