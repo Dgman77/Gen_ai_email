@@ -37,8 +37,7 @@ local methods, so the project is always runnable, not just runnable-in-theory.
 ## Dataset
 
 **`data/build_dataset.py`** — fully offline, deterministic (seeded), no API
-key or internet required. Produces **104 examples** (100 template-generated
-+ 4 hand-crafted edge cases) across **20 support categories**:
+key or internet required. Produces **104 examples** (100 template-generated + 4 hand-crafted edge cases) across **20 support categories**:
 
 Billing Issue, Refund Request, Duplicate Charge, Failed Payment, Subscription
 Cancellation, Upgrade/Downgrade, Account Locked, Login Problems, Password
