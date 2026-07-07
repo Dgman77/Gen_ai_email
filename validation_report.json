@@ -1,0 +1,92 @@
+{
+  "per_row": [
+    {
+      "id": "0029",
+      "category": "Upgrade/Downgrade",
+      "gold_score": 50.5,
+      "generic_bad_score": 20.3,
+      "wrong_intent_score": 14.4,
+      "calibration_passed": true
+    },
+    {
+      "id": "0064",
+      "category": "Wrong Item Received",
+      "gold_score": 68.8,
+      "generic_bad_score": 22.7,
+      "wrong_intent_score": 20.4,
+      "calibration_passed": true
+    },
+    {
+      "id": "0053",
+      "category": "Shipping Delay",
+      "gold_score": 68.8,
+      "generic_bad_score": 35.6,
+      "wrong_intent_score": 41.9,
+      "calibration_passed": true
+    },
+    {
+      "id": "0035",
+      "category": "Account Locked",
+      "gold_score": 78.8,
+      "generic_bad_score": 45.9,
+      "wrong_intent_score": 43.0,
+      "calibration_passed": true
+    },
+    {
+      "id": "0066",
+      "category": "Damaged Product",
+      "gold_score": 58.8,
+      "generic_bad_score": 24.0,
+      "wrong_intent_score": 24.6,
+      "calibration_passed": true
+    },
+    {
+      "id": "0038",
+      "category": "Login Problems",
+      "gold_score": 70.5,
+      "generic_bad_score": 54.6,
+      "wrong_intent_score": 49.6,
+      "calibration_passed": true
+    },
+    {
+      "id": "0020",
+      "category": "Failed Payment",
+      "gold_score": 78.8,
+      "generic_bad_score": 32.0,
+      "wrong_intent_score": 42.4,
+      "calibration_passed": true
+    },
+    {
+      "id": "0015",
+      "category": "Duplicate Charge",
+      "gold_score": 80.5,
+      "generic_bad_score": 19.9,
+      "wrong_intent_score": 33.9,
+      "calibration_passed": true
+    },
+    {
+      "id": "0054",
+      "category": "Shipping Delay",
+      "gold_score": 68.8,
+      "generic_bad_score": 35.6,
+      "wrong_intent_score": 41.9,
+      "calibration_passed": true
+    },
+    {
+      "id": "0060",
+      "category": "Missing Package",
+      "gold_score": 61.3,
+      "generic_bad_score": 25.0,
+      "wrong_intent_score": 23.6,
+      "calibration_passed": true
+    }
+  ],
+  "summary": {
+    "n_tested": 10,
+    "n_passed": 10,
+    "pass_rate": 1.0,
+    "avg_gold_score": 68.56,
+    "avg_generic_bad_score": 31.56,
+    "avg_wrong_intent_score": 33.57
+  }
+}
