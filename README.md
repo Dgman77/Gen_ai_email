@@ -201,3 +201,29 @@ variables on your machine and clear them.
 Sample run (fallback mode, no API key — included for reference; scores are
 meaningfully higher with `GEMINI_API_KEY` set, since real generation replaces
 the retrieval-baseline fallback):
+mean_overall: 61.05 / 100
+by_difficulty: { easy: 62.3, medium: 64.9, hard: 55.2 }
+Full per-response and summary results in `results.json` after running.
+
+---
+
+## Limitations
+
+- **No fine-tuning** — this is RAG-style prompting over a curated dataset,
+  not a trained model. Disclosed deliberately rather than overclaimed.
+- **Synthetic dataset** — no real Hiver/customer inbox data was available;
+  the dataset is template + optionally LLM generated, not scraped or
+  hand-labeled from real tickets.
+- **~104 examples** — enough to demonstrate the approach and evaluation
+  methodology, not enough for statistically robust category-level breakdowns.
+- **LLM-judge metrics** (action/intent/tone) depend on the judge model's
+  quality and cost a few API calls per response — heuristic fallbacks are
+  included but are noticeably cruder than the LLM-judge versions.
+- **Retrieval is TF-IDF**, not a dense embedding index — fine at this scale,
+  would need upgrading (e.g. FAISS + sentence embeddings) for a larger
+  dataset.
+
+## Tools used
+Built with Claude (Anthropic) for code generation and architecture
+discussion. Gen-AI generation/judging uses the Gemini API (free tier,
+`google-genai` SDK).
