@@ -226,3 +226,5 @@ Full per-response and summary results in `results.json` after running.
 Built with Claude (Anthropic) for code generation and architecture
 discussion. Gen-AI generation/judging uses the Gemini API (free tier,
 `google-genai` SDK).
+
+###Eagerly Waiting for Your Reply's about this project 
